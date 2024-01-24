@@ -1,0 +1,1 @@
+Write Result: Hello, this is first txt, Hello, this is second txtWrite Result: Hello, this is first txt, Hello, this is second txt
